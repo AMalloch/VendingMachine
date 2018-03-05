@@ -20,4 +20,9 @@ public class TestCustomer {
     public void testCustomerCash() {
         assertEquals(10.00, customer.getCash(), 0.01);
     }
+
+    @Test
+    public void testCustomerInventoryIsInitallyEmpty() {
+        assertEquals(0, customer.getInventorySize());
+    }
 }

@@ -18,4 +18,8 @@ public class Customer {
     public double getCash() {
         return cash;
     }
+
+    public int getInventorySize() {
+        return inventory.size();
+    }
 }
