@@ -43,5 +43,10 @@ public class TestVendingMachine {
         assertEquals(1.50, refunded, 0.01);
         assertEquals(10.00, vendingMachine.getCash(), 0.01);
     }
+
+    @Test
+    public void testStockLevelOfTray() {
+        assertEquals(5, vendingMachine.getStockLevelForTray(Selection.A1));
+    }
 }
 
