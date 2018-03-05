@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cc5b107-2621-4bd5-b4a1-2541769f4896" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestCustomer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Customer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,16 +24,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestCustomer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestCustomer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+            <state relative-caret-position="140">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -352,6 +362,7 @@
         <option value="$PROJECT_DIR$/src/test/java/TestSweet.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sweet.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCustomer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Customer.java" />
       </list>
     </option>
   </component>
@@ -692,13 +703,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        <state relative-caret-position="140">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
