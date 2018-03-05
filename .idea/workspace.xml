@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cc5b107-2621-4bd5-b4a1-2541769f4896" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine.java" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestVendingMachine.java" afterPath="$PROJECT_DIR$/src/test/java/TestVendingMachine.java" />
     </list>
@@ -25,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestVendingMachine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestVendingMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestVendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="23" />
+            <state relative-caret-position="197">
+              <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1329#1330#0" expanded="true" />
@@ -39,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VendingMachine.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VendingMachine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/VendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="230">
+              <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
               <folding>
                 <element signature="e#342#343#0" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
@@ -625,18 +626,6 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 13h 52m 09s.xml">
-      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 13h 54m 53s.xml">
-      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 14h 00m 49s.xml">
-      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 14h 02m 03s.xml">
-      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 14h 03m 18s.xml">
       <configuration name="All in VendingMachine_test" configurationId="JUnit" />
     </history-entry>
@@ -655,6 +644,18 @@
     <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 14h 54m 15s.xml">
       <configuration name="All in VendingMachine_test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 15h 10m 16s.xml">
+      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 15h 12m 02s.xml">
+      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 15h 12m 56s.xml">
+      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_VendingMachine_test - 2018.03.05 at 15h 13m 36s.xml">
+      <configuration name="All in VendingMachine_test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1280" height="720" extended-state="0" />
@@ -666,7 +667,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.50646204" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26275116" sideWeight="0.49676898" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -838,10 +839,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestVendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VendingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="230">
+          <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
           <folding>
             <element signature="e#342#343#0" expanded="true" />
             <element signature="e#371#372#0" expanded="true" />
@@ -851,18 +864,6 @@
             <element signature="e#523#524#0" expanded="true" />
             <element signature="e#866#867#0" expanded="true" />
             <element signature="e#928#929#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestVendingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
           </folding>
         </state>
       </provider>
