@@ -37,4 +37,43 @@ public class VendingMachine {
     public int getStockLevelForTray(Selection selection) {
         return products.get(selection).getStockLevel();
     }
+
+    public Product vend(Selection selection) {
+        Tray tray = products.get(selection);
+        Product product = null;
+
+        // check credit >= price row
+        if(credit >= tray.getPrice()){
+            // check tray has product in stock
+            if(tray.getStockLevel() > 0){
+                // get product from tray
+                product = tray.ejectProduct();
+
+                // cash goes up
+                cash += credit;
+
+                // credit goes down
+                credit = 0;
+            }
+        }
+
+        return product;
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

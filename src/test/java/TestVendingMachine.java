@@ -59,7 +59,7 @@ public class TestVendingMachine {
         assertEquals(10.50, vendingMachine.getCash(), 0.01);
         assertEquals(0.00, vendingMachine.getCredit(), 0.01);
 
-        assert(product instanceof Sweet);
+        assertEquals("Refreshers", product.getName());
     }
 }
 
