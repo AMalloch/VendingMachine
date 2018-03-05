@@ -22,7 +22,7 @@ public class TestCustomer {
     }
 
     @Test
-    public void testCustomerInventoryIsInitallyEmpty() {
+    public void testCustomerInventoryIsInitiallyEmpty() {
         assertEquals(0, customer.getInventorySize());
     }
 }
