@@ -10,4 +10,16 @@ public class VendingMachine {
         this.cash = cash;
         this.credit = 0.00;
     }
+
+    public double getCredit() {
+        return credit;
+    }
+
+    public double getCash() {
+        return cash;
+    }
+
+    public void addMoney(double amountEntered) {
+        credit += amountEntered;
+    }
 }
